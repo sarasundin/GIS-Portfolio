@@ -7,10 +7,6 @@ Här samlar jag mina projekt inom GIS, Python‑automation och miljöövervaknin
 📄 **CV:**  
 👉 [Sara Sundin – CV (PDF)]((https://github.com/sarasundin/GIS-Portfolio/blob/main/cv/Sara_Sundin_CV_2026.pdf
 
-CV (uppdaterat 2026):  
-👉 [Ladda ner CV som PDF](https://raw.githubusercontent.com/sarasundin/GIS-Portfolio/main/cv/Sara_Sundin_CV_2026.pdf
-
-
 ## 🛠 Teknisk Stack
 * **Språk:** Python (GeoPandas, ArcPy, Pandas)
 * **Verktyg:** Visual Studio Code, GitHub Copilot (AI-assisterad utveckling)
@@ -53,5 +49,8 @@ https://www.linkedin.com/in/sara-sundin-23b564237/
 
 🔗 **GitHub:**  
 GIS‑portfolio (GitHub): https://github.com/sarasundin/GIS-Portfolio
+
+CV (uppdaterat 2026):  
+👉 [Ladda ner CV som PDF](https://raw.githubusercontent.com/sarasundin/GIS-Portfolio/main/cv/Sara_Sundin_CV_2026.pdf
 
 ✉️ Mail: sara.sundin@telia.com

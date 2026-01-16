@@ -62,3 +62,4 @@ rumslig analys med Python‑baserad automation.
 
 
 
+

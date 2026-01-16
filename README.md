@@ -54,3 +54,10 @@ CV (uppdaterat 2026):
 👉 [Ladda ner CV som PDF](https://raw.githubusercontent.com/sarasundin/GIS-Portfolio/main/cv/Sara_Sundin_CV_2026.pdf
 
 ✉️ Mail: sara.sundin@telia.com
+
+
+📍 Jag söker möjligheter inom GIS, geodata och miljöanalys där jag kan kombinera
+rumslig analys med Python‑baserad automation.
+
+
+

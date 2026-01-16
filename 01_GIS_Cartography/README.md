@@ -1,3 +1,2 @@
-# GIS & Cartography
-Material och projekt relaterade till GIS och kartografi.
+Projekt från GIS 1 & 2 (fokus på layout/analys)
 

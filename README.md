@@ -23,8 +23,10 @@ Här hittar du script utvecklade i VS Code som automatiserar datatvätt och spat
 
 
 
+
 🔧 **Python & Automation**  
-Se projekt: [`2_Python_Automation`
+Se projekt: [`02_Python_Automation`](./02_Python
+
 
 
 

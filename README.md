@@ -21,16 +21,6 @@ Här samlar jag mina projekt inom GIS, Python‑automation och miljöövervaknin
 Här hittar du script utvecklade i VS Code som automatiserar datatvätt och spatial analys. 
 *Mål: Att ersätta manuella klick med skalbar kod.*
 
-
-
-
-🔧 **Python & Automation**  
-Se projekt: [`02_Python_Automation`](./02_Python
-
-
-
-
-
 ### [🗺️ Kartografi & Analys](./01_GIS_Cartography/)
 Projekt från mina inledande GIS-kurser. Fokus på spatial metodik, koordinatsystem och kartproduktion för miljöbeslutsunderlag.
 

@@ -47,4 +47,4 @@ https://www.linkedin.com/in/sara-sundin-23b564237/
 
 🔗 **GitHub:**  
 GIS‑portfolio (GitHub): https://github.com/sarasundin/GIS-Portfolio
-<img width="730" height="927" alt="image" src="https://github.com/user-attachments/assets/a840b187-b5c9-424a-88f2-075336007ca0" />
+<img width="730" height="927" alt="image" src="https://github.com/user-attachments/assets/4325d224-e649-461a-8c0b-f497ad8ae64f" />

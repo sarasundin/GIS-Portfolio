@@ -1,6 +1,12 @@
-# Miljövetare & GIS-utvecklare 
+# GIS-Portfolio  
+**Miljövetare & GIS-utvecklare**
 
-Välkommen! Jag är en miljövetare som specialiserar mig på att kombinera geografisk analys med modern mjukvaruutveckling. Här samlar jag mina projekt inom GIS, Python-automation och miljöövervakning.
+Välkommen! Jag är en miljövetare som specialiserar mig på att kombinera geografisk analys med modern mjukvaruutveckling.  
+Här samlar jag mina projekt inom GIS, Python‑automation och miljöövervakning.
+
+📄 **CV:**  
+👉 [Sara Sundin – CV (PDF)](https
+
 
 ## 🛠 Teknisk Stack
 * **Språk:** Python (GeoPandas, ArcPy, Pandas)

@@ -56,6 +56,7 @@ CV (uppdaterat 2026):
 ✉️ Mail: sara.sundin@telia.com
 
 
+
 📍 Jag söker möjligheter inom GIS, geodata och miljöanalys där jag kan kombinera
 rumslig analys med Python‑baserad automation.
 

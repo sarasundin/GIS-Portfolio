@@ -5,7 +5,7 @@ Välkommen! Jag är en miljövetare som specialiserar mig på att kombinera geog
 Här samlar jag mina projekt inom GIS, Python‑automation och miljöövervakning.
 
 📄 **CV:**  
-👉 [Sara Sundin – CV (PDF)]([https](https://github.com/sarasundin/GIS-Portfolio/blob/main/cv/Sara_Sundin_CV_2026.pdf)
+👉 [Sara Sundin – CV (PDF)]((https://github.com/sarasundin/GIS-Portfolio/blob/main/cv/Sara_Sundin_CV_2026.pdf
 
 CV (uppdaterat 2026):  
 👉 [Ladda ner CV som PDF](https://github.com/sarasundin/GIS-Portfolio/blob/main/cv/Sara_Sundin_CV_2026.pdf

@@ -51,4 +51,4 @@ https://www.linkedin.com/in/sara-sundin-23b564237/
 🔗 **GitHub:**  
 GIS‑portfolio (GitHub): https://github.com/sarasundin/GIS-Portfolio
 
-- ✉️ Mail: sara.sundin@telia.com
+✉️ Mail: sara.sundin@telia.com

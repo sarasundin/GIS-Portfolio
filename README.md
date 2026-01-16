@@ -37,5 +37,11 @@ GIS‑manual för nybörjare.
 Som aktiv orienterare har jag även en stark praktisk förståelse för
 kartor, navigation och rumsliga samband.
 
+## Kontakt
 
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/sara-sundin-23b564237/
+
+🔗 **GitHub:**  
+GIS‑portfolio (GitHub): https://github.com/sarasundin/GIS-Portfolio
 

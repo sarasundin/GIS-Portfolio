@@ -18,11 +18,24 @@ Följande PDF‑filer är **slutversioner av kartor (Final Map Layouts)** export
 
 - **FINAL MAP LAYOUT slutversion.pdf**  
 - **Försvunnet flygplan layout.pdf**  
+- **Åre vandringsled – övning 1 & 2.pdf**  
 - **Övning 3.pdf**  
 - **Översiktskarta3.pdf**  
 - **Task 1.pdf**
 
 Samtliga filer representerar färdigställda kartprodukter med fokus på layout, symbolik, färgval, etikettering och informationsstruktur.
+
+---
+
+## 🗺️ Exempel på projekttyp
+
+**Åre vandringsled – övning 1 & 2**  
+Projektet fokuserar på kartografisk visualisering av en vandringsled i Åreområdet. Arbetet omfattar:
+- hantering av geografiska data för friluftsliv och terräng
+- tydlig kartlayout anpassad för orientering och navigation
+- symbolik, skalhantering och etikettering för praktisk användning
+
+Projektet visar tillämpning av grundläggande GIS‑analys kombinerat med kartografisk tydlighet.
 
 ---
 
@@ -53,5 +66,3 @@ Projekten visar min förmåga att arbeta strukturerat i QGIS och ta fram slutpro
 
 Dessa projekt har **fokus på kartografi och analys**, och är en del av min grundläggande GIS‑utbildning.  
 Mer tekniskt orienterade projekt (automatisering, Python, Git‑baserade arbetsflöden m.m.) finns i andra delar av detta repository.
-Projekt från GIS 1 & 2 (fokus på layout/analys)  
-

@@ -65,4 +65,4 @@ Projekten visar min förmåga att arbeta strukturerat i QGIS och ta fram slutpro
 ## ℹ️ Notering
 
 Dessa projekt har **fokus på kartografi och analys**, och är en del av min grundläggande GIS‑utbildning.  
-Mer tekniskt orienterade projekt (automatisering, Python, Git‑baserade arbetsflöden m.m.) finns i andra delar av detta repository.
+Mer tekniskt orienterade projekt (automatisering, Python, Git‑baserade arbetsflöden m.m.) finns i andra delar av detta repository och kommer uppdateras under kursens gång.
